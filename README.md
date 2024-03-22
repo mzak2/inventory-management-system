@@ -3,6 +3,9 @@ Java based Inventory Management system for a fictious computer store. It is a wa
 The web application uses Java Spring framework in conjunction with Bootstrap, Maven, Thymelead, and the H2 database for storing information. It has 6 navigable pages to manipulate product
 and part inventory, as well as an about page for the business.<br><br>
 
+To view code on github without downloading, navigate to the Super_computer_shop_WMS -> src -> main -> java -> com -> example -> demo:<br>
+This will show controllers, repositories, services, and validators for the application.<br><br>
+
 Usage / installation:<br>
 1. Downloan project as a Zip file. <br>
 2. Open "Super_computer_shop_WMS" in Intellij Community edition. <br>
